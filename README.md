@@ -6,7 +6,7 @@ The folder sessions contains the Jupyter notebooks for the different sessions of
 - [Session 3: Electronic structure theory](https://github.com/joselado/SolidStatePhysics2024/blob/main/notebooks/session3.ipynb)
 - [Session 4: Topological band structure theory](https://github.com/joselado/SolidStatePhysics2024/blob/main/notebooks/session4.ipynb)
 - [Session 5: The Quantum Hall state](https://github.com/joselado/SolidStatePhysics2024/blob/main/notebooks/session5.ipynb)
-- Session 6: Superconductivity, Nambu representation and Majorana physics (soon)
+- [Session 6: Superconductivity, Nambu representation and Majorana physics](https://github.com/joselado/SolidStatePhysics2024/blob/main/notebooks/session5.ipynb)
 - Session 7: Magnetism, magnons, quantum magnetism and spinons (soon)
 - Session 8: Excitations and defects in quantum materials (soon)
 
