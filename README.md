@@ -8,7 +8,7 @@ The folder sessions contains the Jupyter notebooks for the different sessions of
 - [Session 5: The Quantum Hall state](https://github.com/joselado/SolidStatePhysics2024/blob/main/notebooks/session5.ipynb)
 - [Session 6: Superconductivity, Nambu representation and Majorana physics](https://github.com/joselado/SolidStatePhysics2024/blob/main/notebooks/session6.ipynb)
 - [Session 7: Magnetism, magnons, quantum magnetism and spinons](https://github.com/joselado/SolidStatePhysics2024/blob/main/notebooks/session7.ipynb)
-- Session 8: Excitations and defects in quantum materials (soon)
+- [Session 8: Excitations and defects in quantum materials](https://github.com/joselado/SolidStatePhysics2024/blob/main/notebooks/session8.ipynb)
 
 ## Install
 The Jupyter notebooks use [pyqula](https://github.com/joselado/pyqula), and can be installed from a terminal with pip as
