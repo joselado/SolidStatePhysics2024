@@ -1,0 +1,17 @@
+tasks
+{
+ use_ampo_hamiltonian = true
+ gs_from_file = true
+ starting_file_gs = 12QUQ53L2MRDZ98F0KAN.mps
+ skip_dmrg_gs = true
+GS = true
+vev = true
+wf_vev = wf_vev.mps
+pow_vev = 1
+ sites_from_file = true
+ maxm = 30
+ mpomaxm = 5000
+ noise = 0.1
+ cutoff = 1e-12
+ nsweeps = 15
+}
